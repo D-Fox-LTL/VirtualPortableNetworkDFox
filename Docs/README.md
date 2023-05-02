@@ -17,8 +17,6 @@ Double-click on the VPN program executable to launch the program.
 # Usage:
 
 Launch the VPN program executable.
-Enter the IP address of the remote network you want to connect to.
-Click on the Connect button.
 Once connected, you will be able to access the resources on the remote network as if you were physically connected to it.
 
 # Limitations:
