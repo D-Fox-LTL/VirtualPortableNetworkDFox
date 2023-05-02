@@ -1,0 +1,15 @@
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\bin\Debug\net6.0\VirtualPortableNetworkDFoxLTL.exe
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\bin\Debug\net6.0\VirtualPortableNetworkDFoxLTL.deps.json
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\bin\Debug\net6.0\VirtualPortableNetworkDFoxLTL.runtimeconfig.json
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\bin\Debug\net6.0\VirtualPortableNetworkDFoxLTL.dll
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\bin\Debug\net6.0\VirtualPortableNetworkDFoxLTL.pdb
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\VirtualPortableNetworkDFoxLTL.csproj.AssemblyReference.cache
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\VirtualPortableNetworkDFoxLTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\VirtualPortableNetworkDFoxLTL.AssemblyInfoInputs.cache
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\VirtualPortableNetworkDFoxLTL.AssemblyInfo.cs
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\VirtualPortableNetworkDFoxLTL.csproj.CoreCompileInputs.cache
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\VirtualPortableNetworkDFoxLTL.dll
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\refint\VirtualPortableNetworkDFoxLTL.dll
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\VirtualPortableNetworkDFoxLTL.pdb
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\VirtualPortableNetworkDFoxLTL.genruntimeconfig.cache
+C:\Users\vojta\Desktop\C#\VPN-DFox\VirtualPortableNetworkDFoxLTL\obj\Debug\net6.0\ref\VirtualPortableNetworkDFoxLTL.dll
